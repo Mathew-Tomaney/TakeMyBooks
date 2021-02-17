@@ -53,33 +53,61 @@ Run the React App:
 - Users should be able to both share their books and take books that are being shared.
 - App is to be community focused for local people to share unwanted books within a geographical location (i.e. a specific city)
 
-Books
-Book will have:
+##Books
+
+#Book will have:
+
+
+
 -Title
+
 -Author
+
 -Genre
+
 -CurrentOwner User object
+
 -ID / Barcode
+
 -SwapHistory User objects -- Extension
 
-User
-Users will have:
+
+##User
+
+#Users will have:
+
+
 -Collection of shared books
+
 -Collection of owned books
+
 -Community
+
 -Requests - list of requests
 
-Book Taker
+
+##Book Taker
+
 -Should be able to view all available books.
+
 -Filter by genre/artist.
+
 -Search by title.
+
 -Request a book that is being shared.
 
-Book Giver
+
+
+##Book Giver
+
 -Should be able to add books to be shared.
+
 -Should be able to delete books if they change their mind.
+
 -Remove books when they are shared.
+
 -Approve a request for a book.
+
 
 ## Extensions
 - Book could view available books by location on a map based on a User's postcode outcode (e.g. EH12, EH3)
