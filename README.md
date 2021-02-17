@@ -53,9 +53,9 @@ Run the React App:
 - Users should be able to both share their books and take books that are being shared.
 - App is to be community focused for local people to share unwanted books within a geographical location (i.e. a specific city)
 
-##Books
+Books
 
-#Book will have:
+#ook will have:
 
 
 
@@ -72,9 +72,9 @@ Run the React App:
 -SwapHistory User objects -- Extension
 
 
-##User
+User
 
-#Users will have:
+Users will have:
 
 
 -Collection of shared books
@@ -86,7 +86,7 @@ Run the React App:
 -Requests - list of requests
 
 
-##Book Taker
+Book Taker
 
 -Should be able to view all available books.
 
@@ -98,7 +98,7 @@ Run the React App:
 
 
 
-##Book Giver
+Book Giver
 
 -Should be able to add books to be shared.
 
